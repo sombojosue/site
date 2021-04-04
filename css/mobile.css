@@ -1,0 +1,9 @@
+@media only screen and (max-width: 500px) {
+
+#desk-hide{
+display:none !important;
+}
+#mobile-hide{
+display: block !important;
+}
+}

@@ -17,9 +17,9 @@
       "sizes": "525x525"
     }
   ],
-  "start_url": " https://086ea38bfcb9.ngrok.io/sombo",
+  "start_url": "https://sombojosue.github.io/site/",
   "background_color": "#f4f4f4",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#fa1e0e"
+  "theme_color": "#fff"
 }
